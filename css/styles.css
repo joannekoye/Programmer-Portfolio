@@ -6,26 +6,13 @@
   padding: 9px;
   margin: 20px;
 }
-p1 {
+p {
   text-align: center;
   font-size: large;
   color: crimson;
   font-style: oblique;
 }
 
-p2 {
-  text-align: center;
-  font-size: large;
-  color: crimson;
-  font-style: oblique;
-}
-p3 {
-  text-align: center;
-  font-size: large;
-  color: crimson;
-  font-style: oblique;
-
-}
 h1 {
   color: white;
   text-align: center;
@@ -33,6 +20,9 @@ h1 {
 }
 img {
   padding: 12px;
-  text-align: center;
   border: 2px solid crimson;
+  margin: 10px;
+}
+h2 {
+  text-align: center;
 }
