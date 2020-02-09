@@ -6,3 +6,9 @@
   padding: 9px;
   margin: 20px;
 }
+p {
+  text-align: center;
+  font-size: large;
+  color: crimson;
+  font-style: italic;
+}
