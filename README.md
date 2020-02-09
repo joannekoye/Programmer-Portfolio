@@ -7,7 +7,7 @@ The website contains an about section with information about the programmer. It 
 ## Setup/Installation Requirements
 * Internet Connection
 * Search engine
-*THe link to the live site on Github pages is: https://joannekoye.github.io/Programmer-Portfolio/
+*The link to the live site on Github pages is: https://joannekoye.github.io/Programmer-Portfolio/
 
 
 ## Known Bugs
